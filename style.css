@@ -19,7 +19,6 @@ body {
     max-width: 900px;
 }
 
-/* Profile */
 .profile {
     background: #ffffff;
     border-radius: 20px;
@@ -48,7 +47,6 @@ body {
     margin-top: 6px;
 }
 
-/* Cards */
 .card {
     background: #ffffff;
     border-radius: 18px;
@@ -63,7 +61,6 @@ body {
     color: #243b55;
 }
 
-/* Education */
 .edu p {
     margin: 6px 0;
 }
@@ -75,7 +72,6 @@ body {
     background: #ddd;
 }
 
-/* Projects */
 .project {
     margin-bottom: 18px;
 }
@@ -94,7 +90,6 @@ body {
     margin: 5px 0;
 }
 
-/* Footer */
 footer {
     text-align: center;
     color: #ddd;
@@ -102,7 +97,6 @@ footer {
     margin-top: 10px;
 }
 
-/* Mobile Responsive */
 @media (max-width: 600px) {
     .profile h1 {
         font-size: 22px;
